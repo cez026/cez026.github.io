@@ -1,16 +1,16 @@
 # Trip to Sydney
-## Main attractions in central city(Ranked by community reviews):
-###The Sydney Harbour bridge
-1. The Sydney Opera House
-2. Darling Harbour
-3. Queen Victoria Building
-4. Royal Botanic Gardens
-5. Taronga Zoo
-6. Sydney Aquarium
-7. Sydney Tower
-8. Madame Tussauds 
-9. Wild Life Sydney Zoo 
-10. Hyde Park
+### Main attractions in central city(Ranked by community reviews):
+1. The Sydney Harbour bridge
+2. The Sydney Opera House
+3. Darling Harbour
+4. Queen Victoria Building
+5. Royal Botanic Gardens
+6. Taronga Zoo
+7. Sydney Aquarium
+8. Sydney Tower
+9. Madame Tussauds 
+10. Wild Life Sydney Zoo 
+11. Hyde Park
 
 ![](http://b2-q.mafengwo.net/s9/M00/DA/F6/wKgBs1gNdRaAZJ-0AArCwgV4UWk267.png?imageView2%2F2%2Fw%2F680%2Fh%2F9999%2Fq%2F100%7Cwatermark%2F1%2Fimage%2FaHR0cDovL2ExLXEubWFmZW5nd28ubmV0L3MxMC9NMDAvOTkvNjIvd0tnQloxaDBxWXFBQUJBYUFBQVhxM2M3d3lrNjg5LnBuZw%3D%3D%2Fgravity%2FSouthEast%2Fdx%2F10%2Fdy%2F15%2Fdissolve%2F40)
 
@@ -42,6 +42,7 @@
 	cafes on Blues Point Road. If you go that far you could get a ferry back to circular quay.
 
 ### Sydney Opera house
+
 
 
 ## Day 3
